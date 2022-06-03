@@ -1,0 +1,19 @@
+{
+  "name": "pdfjs",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jose Luis Perez Olguin <gskicat@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "pdf-creator-node": "^2.3.4"
+  }
+}
